@@ -1,4 +1,4 @@
-#Snaek_hand_controlled
+# Snaek_hand_controlled
 
 Simple snake game using hand tracing package to pick direction of the snake.
 
